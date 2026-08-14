@@ -1,0 +1,6 @@
+# Original zip archives - superseded by the extracted source below
+research-tracker-backend.zip
+research-tracker-frontend.zip
+
+# Claude Code session state
+.claude/
